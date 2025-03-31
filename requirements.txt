@@ -1,6 +1,6 @@
-tensorflow
+streamlit
+mediapipe
 opencv-python
 numpy
-mediapipe
-streamlit
 keyboard
+Pillow
